@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  text-align: center;
+  font-family: 'Times New Roman';
+  background: mintcream;
+  color: darkslategray;
+}
